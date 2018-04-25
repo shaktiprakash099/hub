@@ -1,0 +1,17 @@
+//
+//  SocialHub-Prefix.pch
+//  SocialHub
+//
+//  Created by GLB-312-PC on 18/04/18.
+//  Copyright © 2018 GLB-312-PC. All rights reserved.
+//
+
+#ifndef SocialHub_Prefix_pch
+#define SocialHub_Prefix_pch
+
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <Quickblox/Quickblox.h>
+#import <QuickbloxWebRTC/QuickbloxWebRTC.h>
+
+#endif /* SocialHub_Prefix_pch */

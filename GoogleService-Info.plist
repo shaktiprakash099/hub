@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>153105140585-1fh7jtq7q8um6g0a1foh44g19mlthbg6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.153105140585-1fh7jtq7q8um6g0a1foh44g19mlthbg6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjzQDNHH6_IuP92vRSZqCyW_f5g0r2uTU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>153105140585</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shakti.SocialHub</string>
+	<key>PROJECT_ID</key>
+	<string>socialhub-d2f3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialhub-d2f3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:153105140585:ios:2f4badb39833652f</string>
+	<key>DATABASE_URL</key>
+	<string>https://socialhub-d2f3a.firebaseio.com</string>
+</dict>
+</plist>
